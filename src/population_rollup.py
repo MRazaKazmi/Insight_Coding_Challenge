@@ -101,7 +101,7 @@ class Core_Area_Process:
             
             try:
                 core_area_code = int(fields[7])
-                core_area_title = f'"{fields[8]}"'
+                core_area_title = f""{fields[8]}""
                 population_00 = int(fields[12].replace(',', ''))
                 population_10 = int(fields[14].replace(',', ''))
                 population_percent_change = float(fields[17])
