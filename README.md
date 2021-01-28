@@ -1,4 +1,4 @@
-# Insight Coding Challenge - Data Engineering - Oct 2020
+# Insight Coding Challenge - Data Engineering 
 
 ## Problem Statement
 
